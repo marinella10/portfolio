@@ -1,0 +1,68 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background: linear-gradient(to bottom, pink, lightpink);
+    background-size: auto;
+    background-repeat: repeat;
+    width: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+/*balises html*/
+a{
+    color: grey!important;
+    text-decoration: none;
+}
+
+h2{
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+
+}
+
+h4 {
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+/*bloc 1*/
+#img-bloc1{
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.img-profil{
+    border-radius: 50%;
+    border:solid white 3px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+
+/*les cartes des projets*/
+.card{
+    height: 100%!important;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.card-parent{
+    transition: 0.2s;
+    text-align: center;
+}
+.card-parent:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+/**block3 resaux sociaux*/
