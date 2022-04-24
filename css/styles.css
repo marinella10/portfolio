@@ -1,21 +1,22 @@
+
 html,
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height: 100vh;
-    background: linear-gradient(to bottom, pink, lightpink);
-    background-size: auto;
-    background-repeat: repeat;
+    background: rgb(255,223,255);
+    background: linear-gradient(0deg, rgba(255,223,255,1) 7%, rgba(251,225,243,1) 97%);
     width: 100%;
     font-family: 'Source Sans Pro', sans-serif;
 
 }
 /*balises html*/
+
 a{
     color: grey!important;
     text-decoration: none;
 }
+
 
 h2{
     color: white;
@@ -36,6 +37,9 @@ h4 {
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
+h5{
+    color: black;
+}
 
 /*bloc 1*/
 #img-bloc1{
