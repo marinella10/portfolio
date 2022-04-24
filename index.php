@@ -191,7 +191,7 @@
 
     <div class="container text-center ">
         <div class="text-center m-5 pt-3">
-            <h4>  TÉLÉCHARGER MON CV ET LES RÉSEAUX SOCIAUX POUR ME CONTACTER:</h4>
+            <h4>  LES RÉSEAUX SOCIAUX POUR ME CONTACTER:</h4>
         </div>
 
 
