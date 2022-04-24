@@ -195,7 +195,7 @@
         </div>
 
 
-        <div class="d-flex justify-content-center align-items-center">
+        <div class="d-flex justify-content-center align-items-center ">
             <div class="m-2 pt-5">
                 <a href="CVwd.pdf" target="_blank">
                     <img src="image/cvvv.png" class="img-fluid rounded pt-4" alt="logo cv" title="cv">
